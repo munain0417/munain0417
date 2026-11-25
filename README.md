@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=pulse&color=auto&height=300&section=header&text=Hello!%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=pulse&color=auto&height=300&section=header&text=Hello!&fontSize=90)
 
 # Thanks for visiting👋
 Hi, I'm Yeongmin Lee. I'm currently studying at Hankuk University of Foreign Studies(HUFS). <br/>
