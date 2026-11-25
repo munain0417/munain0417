@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/acbe6b0d-c2d8-4b3a-9efd-88b1da46997c" />
 # Thanks to visit me👋
 Hi, I'm Yeongmin Lee. Now I'm currently learning in Hankuk University of Foreign Studies(HUFS). <br/>
 My interests are AI·NLP
