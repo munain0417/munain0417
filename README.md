@@ -1,19 +1,24 @@
-# Thanks to visit me👋
-Hi, I'm Yeongmin Lee. Now I'm currently learning in Hankuk University of Foreign Studies(HUFS). <br/>
-My interests are AI·NLP
+![header](https://capsule-render.vercel.app/api?type=pulse&color=auto&height=300&section=header&text=Hello!%20render&fontSize=90)
+
+# Thanks for visiting👋
+Hi, I'm Yeongmin Lee. I'm currently studying at Hankuk University of Foreign Studies(HUFS). <br/>
+I'm interested in AI and NLP
 - ELLT(English Linguistics & Language Technology) - First major
-- Computer Engineering - Double major <br/>
+- Computer Engineering - Double major
 
 ---
 
-## SKills 
+## Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ## Contact
-- Email: qeyong@hufs.ac.kr (available until gratuated)
+- Email: qeyong@hufs.ac.kr (available until gratuation)
 - Blog: TBD
+
+## Projects
+
 
 <!--
 **munain0417/munain0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
