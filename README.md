@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=pulse&color=auto&height=300&section=header&text=Hello!&fontSize=90)
 
 # Thanks for visiting👋
-Hi, I'm Yeongmin Lee. I'm currently studying at Hankuk University of Foreign Studies(HUFS). <br/>
-I'm interested in AI and NLP
+Hi, I'm Yeongmin Lee. I'm currently studying at Hankuk University of Foreign Studies (HUFS). <br/>
+I'm interested in AI and NLP. 
 - ELLT(English Linguistics & Language Technology) - First major
 - Computer Engineering - Double major
 
@@ -12,18 +12,20 @@ I'm interested in AI and NLP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-## Contact
-- Email: qeyong@hufs.ac.kr (available until gratuation)
-- Blog: TBD
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
 - **ml-lab** — Personal sandbox for implementing and experimenting with ML/DL concepts in PyTorch
-- **JEPA Latent Dimension Analysis** 🔒 — Analyzing what individual latent dimensions of a JEPA model predictor encode
+- **JEPA Latent Dimension Analysis** 🔒 — Analyzing what individual latent dimensions of a I-JEPA predictor encode
 - **Cardiovascular Disease Prediction** 🔒 — Classification model predicting cardiovascular disease risk from patient health data (synthetic for educational use)
 
+## Contact
+- Email: qeyong@hufs.ac.kr (available until graduation)
+- Blog: TBD
+
 ## Contributions
-![3D-contrivution](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D-contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **munain0417/munain0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
