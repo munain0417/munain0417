@@ -18,6 +18,9 @@ I'm interested in AI and NLP
 - Blog: TBD
 
 ## Projects
+- **ml-lab** — Personal sandbox for implementing and experimenting with ML/DL concepts in PyTorch
+- **JEPA Latent Dimension Analysis** 🔒 — Analyzing what individual latent dimensions of a JEPA model predictor encode
+- **Cardiovascular Disease Prediction** 🔒 — Classification model predicting cardiovascular disease risk from patient health data (synthetic for educational use)
 
 ## Contributions
 ![3D-contrivution](./profile-3d-contrib/profile-night-rainbow.svg)
